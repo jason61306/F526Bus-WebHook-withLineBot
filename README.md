@@ -17,4 +17,5 @@ $ wrangler deploy
 
 ## Demo
 This demo illustrates how to use the tool to retrieve the bus arrival times for the bus stop located downstairs from my home. Simply input any text to trigger the request.
-![image](https://github.com/jason61306/F526Bus-WebHook-withLineBot/blob/master/demo.gif)
+
+![image](https://raw.githubusercontent.com/jason61306/F526Bus-WebHook-withLineBot/main/demo.gif)
